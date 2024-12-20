@@ -1,3 +1,5 @@
+Aplikasi e-wallet ini dirancang untuk memungkinkan pengguna melakukan transaksi, mengelola akun, dan mengakses fitur e-wallet lainnya. Semua permintaan ke API harus menggunakan protokol HTTPS, dan autentikasi dilakukan menggunakan token API.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
